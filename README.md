@@ -1,2 +1,2 @@
 # whenchanged
-A bash script to execute bash commands when something is changed.
+A shell script to execute commands when something is changed.
